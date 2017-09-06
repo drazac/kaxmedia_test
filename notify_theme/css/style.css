@@ -106,7 +106,7 @@ section span, section p {
 }
 
 .header-right {
-	background: url("../img/hand.png") no-repeat;
+	background: url("../img/misc/hand.png") no-repeat;
 	background-position: bottom center;
 	background-size: contain;
 	height: inherit;
@@ -155,19 +155,19 @@ section span, section p {
 }
 
 .devices li:nth-of-type(1) a:before {
-	background: url("../img/icon/apple.png") no-repeat;
+	background: url("../img/devices/apple.png") no-repeat;
 	background-size: contain;
 	background-position: center;
 }
 
 .devices li:nth-of-type(2) a:before {
-	background: url("../img/icon/android.png") no-repeat;
+	background: url("../img/devices/android.png") no-repeat;
 	background-size: contain;
 	background-position: center;
 }
 
 .devices li:nth-of-type(3) a:before {
-	background: url("../img/icon/windows.png") no-repeat;
+	background: url("../img/devices/windows.png") no-repeat;
 	background-size: contain;
 	background-position: center;
 }
@@ -181,7 +181,7 @@ section span, section p {
 }
 
 #home-header {
-	background: url("../img/bg-header.jpg") no-repeat;
+	background: url("../img/misc/bg-header.jpg") no-repeat;
 	background-size: cover;
 	background-position: center top;
 }
@@ -226,17 +226,17 @@ section span, section p {
 }
 
 #home-features li:nth-of-type(1) div:before {
-	background: url("../img/cog.png") no-repeat;
+	background: url("../img/shapes/cog.png") no-repeat;
 	background-size: contain;
 }
 
 #home-features li:nth-of-type(2) div:before {
-	background: url("../img/star.png") no-repeat;
+	background: url("../img/shapes/star.png") no-repeat;
 	background-size: contain;
 }
 
 #home-features li:nth-of-type(3) div:before {
-	background: url("../img/world.png") no-repeat;
+	background: url("../img/shapes/world.png") no-repeat;
 	background-size: contain;
 }
 
